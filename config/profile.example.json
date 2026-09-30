@@ -1,0 +1,46 @@
+{
+  "personal": {
+    "first_name": "Your",
+    "last_name": "Name",
+    "full_name": "Your Name",
+    "preferred_name": "",
+    "email": "you@example.com",
+    "phone": "000-000-0000",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourhandle",
+    "city": "Your City",
+    "state": "ST",
+    "country": "United States",
+    "address_line_1": "123 Example St",
+    "postal_code": "00000"
+  },
+  "professional": {
+    "current_company": "Current Employer",
+    "current_title": "Your Title",
+    "years_experience": "2",
+    "highest_degree": "Bachelor of Science in ...",
+    "current_program": "",
+    "school": "Your University",
+    "skills": ["Python", "SQL", "Git"]
+  },
+  "application_defaults": {
+    "cover_letter_policy": "always",
+    "requires_sponsorship": null,
+    "legally_authorized_us": null,
+    "eligible_for_security_clearance": null,
+    "salary_expectation_usd": null,
+    "compensation_strategy": {
+      "current_salary_usd": 75000,
+      "if_current_salary_in_range_ask_usd": 80000,
+      "positioning": "If the posted range includes current salary, ask for if_current_salary_in_range_ask_usd. If the full range is above that bridge amount, pick a conservative point above the floor based on job match (apply.py prints a suggestion at runtime)."
+    },
+    "notice_period": "",
+    "willing_to_relocate": false,
+    "willing_to_work_remote": true
+  },
+  "screening_answers": {
+    "why_this_company": "",
+    "why_this_role": "",
+    "additional_information": ""
+  }
+}

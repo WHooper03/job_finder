@@ -1,0 +1,64 @@
+{
+  "title_keywords": [
+    "data engineer",
+    "junior data engineer",
+    "associate data engineer",
+    "machine learning engineer",
+    "ml engineer",
+    "data scientist",
+    "analytics engineer",
+    "ai engineer",
+    "data analyst",
+    "business intelligence analyst"
+  ],
+  "expanded_title_keywords": [
+    "software engineer",
+    "software developer",
+    "backend engineer",
+    "platform engineer"
+  ],
+  "expanded_title_requires_description_keywords": [
+    "python",
+    "sql",
+    "machine learning",
+    "data pipeline",
+    "etl",
+    "analytics"
+  ],
+  "location_policy": "remote_us_or_local",
+  "remote_keywords": ["remote"],
+  "remote_us_keywords": [
+    "united states",
+    "usa",
+    "u.s.",
+    "us remote",
+    "remote us",
+    "remote - us",
+    "remote within the united states",
+    "north america"
+  ],
+  "local_area_keywords": [],
+  "minimum_salary_usd": 70000,
+  "include_unlisted_salary": true,
+  "include_seniority": [
+    "entry",
+    "junior",
+    "associate",
+    "early career",
+    "new grad",
+    "mid",
+    "mid-level"
+  ],
+  "exclude_title_keywords": [
+    "senior",
+    "sr.",
+    "staff",
+    "principal",
+    "lead",
+    "manager",
+    "director",
+    "head of",
+    "vp"
+  ],
+  "posted_within_hours": 168
+}

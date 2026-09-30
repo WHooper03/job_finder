@@ -1,0 +1,137 @@
+[
+  {
+    "company": "Jobicy",
+    "platform": "jobicy",
+    "count": 100,
+    "enabled": true
+  },
+  {
+    "company": "Remotive",
+    "platform": "remotive",
+    "enabled": true
+  },
+  {
+    "company": "Stripe",
+    "platform": "greenhouse",
+    "board_token": "stripe",
+    "enabled": true
+  },
+  {
+    "company": "Datadog",
+    "platform": "greenhouse",
+    "board_token": "datadog",
+    "enabled": true
+  },
+  {
+    "company": "Figma",
+    "platform": "greenhouse",
+    "board_token": "figma",
+    "enabled": true
+  },
+  {
+    "company": "Airbnb",
+    "platform": "greenhouse",
+    "board_token": "airbnb",
+    "enabled": true
+  },
+  {
+    "company": "Discord",
+    "platform": "greenhouse",
+    "board_token": "discord",
+    "enabled": true
+  },
+  {
+    "company": "Reddit",
+    "platform": "greenhouse",
+    "board_token": "reddit",
+    "enabled": true
+  },
+  {
+    "company": "Coinbase",
+    "platform": "greenhouse",
+    "board_token": "coinbase",
+    "enabled": true
+  },
+  {
+    "company": "Robinhood",
+    "platform": "greenhouse",
+    "board_token": "robinhood",
+    "enabled": true
+  },
+  {
+    "company": "Instacart",
+    "platform": "greenhouse",
+    "board_token": "instacart",
+    "enabled": true
+  },
+  {
+    "company": "Samsara",
+    "platform": "greenhouse",
+    "board_token": "samsara",
+    "enabled": true
+  },
+  {
+    "company": "Chime",
+    "platform": "greenhouse",
+    "board_token": "chime",
+    "enabled": true
+  },
+  {
+    "company": "Brex",
+    "platform": "greenhouse",
+    "board_token": "brex",
+    "enabled": true
+  },
+  {
+    "company": "Databricks",
+    "platform": "greenhouse",
+    "board_token": "databricks",
+    "enabled": true
+  },
+  {
+    "company": "Faire",
+    "platform": "greenhouse",
+    "board_token": "faire",
+    "enabled": true
+  },
+  {
+    "company": "Webflow",
+    "platform": "greenhouse",
+    "board_token": "webflow",
+    "enabled": true
+  },
+  {
+    "company": "Block",
+    "platform": "greenhouse",
+    "board_token": "block",
+    "enabled": true
+  },
+  {
+    "company": "Duolingo",
+    "platform": "greenhouse",
+    "board_token": "duolingo",
+    "enabled": true
+  },
+  {
+    "company": "Netflix",
+    "platform": "lever",
+    "site": "netflix",
+    "enabled": true
+  },
+  {
+    "company": "NVIDIA",
+    "platform": "workday",
+    "tenant": "nvidia",
+    "region": "wd5",
+    "site": "NVIDIAExternalCareerSite",
+    "enabled": true
+  },
+  {
+    "company": "Capital One",
+    "platform": "workday",
+    "tenant": "capitalone",
+    "region": "wd12",
+    "site": "Capital_One",
+    "enabled": true
+  }
+]

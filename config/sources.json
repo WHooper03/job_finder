@@ -1,0 +1,359 @@
+[
+  {
+    "name": "RemoteJobsFinder",
+    "source_type": "open",
+    "platform": "remotejobsfinder",
+    "searches": [
+      "data scientist",
+      "junior data scientist",
+      "associate data scientist",
+      "entry level data scientist",
+      "data analyst",
+      "junior data analyst",
+      "associate data analyst",
+      "entry level data analyst",
+      "data engineer",
+      "junior data engineer",
+      "associate data engineer",
+      "entry level data engineer",
+      "machine learning engineer",
+      "machine learning engineer i",
+      "junior machine learning engineer",
+      "associate machine learning engineer",
+      "ml engineer",
+      "junior ml engineer",
+      "analytics engineer",
+      "junior analytics engineer",
+      "associate analytics engineer",
+      "ai engineer",
+      "junior ai engineer",
+      "business intelligence analyst",
+      "bi analyst"
+    ],
+    "limit": 30,
+    "max_pages": 3,
+    "enabled": true
+  },
+  {
+    "name": "Jobicy",
+    "source_type": "open",
+    "platform": "jobicy",
+    "count": 100,
+    "enabled": true
+  },
+  {
+    "name": "Remote OK",
+    "source_type": "open",
+    "platform": "remoteok",
+    "enabled": true
+  },
+  {
+    "name": "Arbeitnow",
+    "source_type": "open",
+    "platform": "arbeitnow",
+    "pages": 3,
+    "enabled": true
+  },
+  {
+    "name": "Remotive",
+    "source_type": "open",
+    "platform": "remotive",
+    "enabled": true
+  },
+  {
+    "name": "Flexport",
+    "company": "Flexport",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "flexport",
+    "company_tier": "preferred",
+    "enabled": true
+  },
+  {
+    "name": "project44",
+    "company": "project44",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "project44",
+    "company_tier": "preferred",
+    "enabled": true
+  },
+  {
+    "name": "Komodo Health",
+    "company": "Komodo Health",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "komodohealth",
+    "company_tier": "preferred",
+    "enabled": true
+  },
+  {
+    "name": "Blend Labs",
+    "company": "Blend Labs",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "blend",
+    "company_tier": "preferred",
+    "enabled": true
+  },
+  {
+    "name": "dbt Labs",
+    "company": "dbt Labs",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "dbtlabsinc",
+    "company_tier": "preferred",
+    "enabled": true
+  },
+  {
+    "name": "Openly",
+    "company": "Openly",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "openly",
+    "company_tier": "preferred",
+    "enabled": true
+  },
+  {
+    "name": "Augury",
+    "company": "Augury",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "augury",
+    "company_tier": "preferred",
+    "enabled": true
+  },
+  {
+    "name": "Amplitude",
+    "company": "Amplitude",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "amplitude",
+    "company_tier": "preferred",
+    "enabled": true
+  },
+  {
+    "name": "Klaviyo",
+    "company": "Klaviyo",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "klaviyo",
+    "company_tier": "preferred",
+    "enabled": true
+  },
+  {
+    "name": "Loadsmart",
+    "company": "Loadsmart",
+    "source_type": "company_ats",
+    "platform": "lever",
+    "board_token": "loadsmart",
+    "company_tier": "preferred",
+    "enabled": true
+  },
+  {
+    "name": "Arcadia (Healthcare)",
+    "company": "Arcadia",
+    "source_type": "company_ats",
+    "platform": "lever",
+    "board_token": "arcadia",
+    "company_tier": "preferred",
+    "enabled": true
+  },
+  {
+    "name": "Progressive Insurance",
+    "company": "Progressive",
+    "source_type": "company_ats",
+    "platform": "workday",
+    "tenant": "progressive",
+    "region": "wd5",
+    "site": "progressive",
+    "company_tier": "preferred",
+    "enabled": true
+  },
+  {
+    "name": "LiveRamp",
+    "company": "LiveRamp",
+    "source_type": "company_ats",
+    "platform": "workday",
+    "tenant": "liveramp",
+    "region": "wd5",
+    "site": "LiveRampCareers",
+    "company_tier": "preferred",
+    "enabled": true
+  },
+  {
+    "name": "Samsara",
+    "company": "Samsara",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "samsara",
+    "company_tier": "standard",
+    "enabled": true
+  },
+  {
+    "name": "Block",
+    "company": "Block",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "block",
+    "company_tier": "standard",
+    "enabled": true
+  },
+  {
+    "name": "Instacart",
+    "company": "Instacart",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "instacart",
+    "company_tier": "standard",
+    "enabled": true
+  },
+  {
+    "name": "Duolingo",
+    "company": "Duolingo",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "duolingo",
+    "company_tier": "standard",
+    "enabled": true
+  },
+  {
+    "name": "Faire",
+    "company": "Faire",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "faire",
+    "company_tier": "standard",
+    "enabled": true
+  },
+  {
+    "name": "Capital One",
+    "company": "Capital One",
+    "source_type": "company_ats",
+    "platform": "workday",
+    "tenant": "capitalone",
+    "region": "wd12",
+    "site": "Capital_One",
+    "company_tier": "standard",
+    "enabled": true
+  },
+  {
+    "name": "Stripe",
+    "company": "Stripe",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "stripe",
+    "company_tier": "reach",
+    "enabled": false
+  },
+  {
+    "name": "Datadog",
+    "company": "Datadog",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "datadog",
+    "company_tier": "reach",
+    "enabled": false
+  },
+  {
+    "name": "Figma",
+    "company": "Figma",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "figma",
+    "company_tier": "reach",
+    "enabled": false
+  },
+  {
+    "name": "Airbnb",
+    "company": "Airbnb",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "airbnb",
+    "company_tier": "reach",
+    "enabled": false
+  },
+  {
+    "name": "Discord",
+    "company": "Discord",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "discord",
+    "company_tier": "reach",
+    "enabled": false
+  },
+  {
+    "name": "Reddit",
+    "company": "Reddit",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "reddit",
+    "company_tier": "reach",
+    "enabled": false
+  },
+  {
+    "name": "Coinbase",
+    "company": "Coinbase",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "coinbase",
+    "company_tier": "reach",
+    "enabled": false
+  },
+  {
+    "name": "Robinhood",
+    "company": "Robinhood",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "robinhood",
+    "company_tier": "reach",
+    "enabled": false
+  },
+  {
+    "name": "Brex",
+    "company": "Brex",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "brex",
+    "company_tier": "reach",
+    "enabled": false
+  },
+  {
+    "name": "Databricks",
+    "company": "Databricks",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "databricks",
+    "company_tier": "reach",
+    "enabled": false
+  },
+  {
+    "name": "Webflow",
+    "company": "Webflow",
+    "source_type": "company_ats",
+    "platform": "greenhouse",
+    "board_token": "webflow",
+    "company_tier": "reach",
+    "enabled": false
+  },
+  {
+    "name": "Netflix",
+    "company": "Netflix",
+    "source_type": "company_ats",
+    "platform": "lever",
+    "board_token": "netflix",
+    "company_tier": "reach",
+    "enabled": false
+  },
+  {
+    "name": "NVIDIA",
+    "company": "NVIDIA",
+    "source_type": "company_ats",
+    "platform": "workday",
+    "tenant": "nvidia",
+    "region": "wd5",
+    "site": "NVIDIAExternalCareerSite",
+    "company_tier": "reach",
+    "enabled": false
+  }
+]

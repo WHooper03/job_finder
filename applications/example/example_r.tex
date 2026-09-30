@@ -1,0 +1,74 @@
+% Example tailored resume — pattern for applications/{company_abbrev}/{abbrev}_r.tex
+% Tailored for: Example Corp — Data Engineer (illustrative only)
+
+\documentclass[letterpaper,11pt]{article}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+\titleformat{\section}{\vspace{-4pt}\scshape\raggedright\large}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{\item\small{{#1 \vspace{-2pt}}}}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+\begin{center}
+    \textbf{\Huge \scshape Your Name} \\ \vspace{1pt}
+    \small Your City, ST $|$ \href{mailto:you@example.com}{\underline{you@example.com}}
+\end{center}
+
+\section{Summary}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small{\item{Data Engineer candidate with Python/SQL pipeline experience. Keywords from the posting appear naturally here and in bullets below.}}
+\end{itemize}
+
+\section{Experience}
+  \resumeSubHeadingListStart
+      \resumeSubheading
+      {Data Analyst}{06/2022 -- Present}
+      {Previous Employer}{Remote}
+      \resumeItemListStart
+          \resumeItem{Built ETL jobs and SQL models supporting analytics; mention posting keywords honestly.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+\section{Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small{\item{Python, SQL, Airflow (if true), cloud warehouse of your choice}}
+\end{itemize}
+
+\end{document}
